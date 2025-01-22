@@ -1,2 +1,3 @@
-# -Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation
-Analysis of Social Buzz Top 5 Most Popular Category of Content
+# -FORAGE-ACCENTURE-VIRTUAL-INTERNSHIP
+Accenture North America Data Analytics and Visualization Job Simulation on Forage - January 2024
+
