@@ -59,5 +59,5 @@ After the Analysis was done, we were able to identify the top 5 most popular cat
 
 The Top 5 most popular category of content can be shown in the visual [Here](https://github.com/phuad23/-Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation/blob/main/PieChart%20of%20accenture.PNG)
 
-The Presentation can also be viewed [Here](
+The Presentation can also be viewed [Here](https://github.com/phuad23/-Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation/blob/main/Accenture%20Data%20Analystics%20Presentation.pptx)
    
