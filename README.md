@@ -42,6 +42,19 @@ for the analysis; Reaction, Content and Reaction Types.
 
 To create the final datasets for the analysis, we have to merge all the three dataset together and "Vlookup" formular was used to merge the 3 dataset into 1. 
 
-View the cleaned and merged tables in Excel [Here]
+View the cleaned and final dataset in Excel [Here](https://github.com/phuad23/-Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation/blob/main/Reactions.xlsx)
+
+## Data Analysis
+To figure out the Top 5 performing categories;
+
+we add up the total scores for each category. "SumIF" formular was used to achieve this.
+
+## Uncover Insight
+After the Analysis was done, we were able to identify the top 5 most popular category of content which are as follows;
+1. Animal
+2. Science
+3. Healthy Eating
+4. Technology
+5. Food
 
    
