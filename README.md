@@ -63,4 +63,4 @@ The Presentation can also be viewed [Here](https://github.com/phuad23/-Accenture
 
 ## Certificate of Completion
 Below is the Certification of the internship Completion with Accenture on Forage
-- ![Internship-Certificate](
+- ![Internship-Certificate](https://github.com/phuad23/-Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation/blob/main/Accenture%20internship%20certificate.pdf)
