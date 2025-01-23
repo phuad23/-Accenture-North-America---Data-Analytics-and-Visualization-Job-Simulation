@@ -57,4 +57,6 @@ After the Analysis was done, we were able to identify the top 5 most popular cat
 4. Technology
 5. Food
 
+The Top 5 most popular catgory of content can be shown in the visual [Here]
+
    
