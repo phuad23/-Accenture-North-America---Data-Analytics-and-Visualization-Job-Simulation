@@ -57,6 +57,7 @@ After the Analysis was done, we were able to identify the top 5 most popular cat
 4. Technology
 5. Food
 
-The Top 5 most popular catgory of content can be shown in the visual [Here]
+The Top 5 most popular category of content can be shown in the visual [Here](https://github.com/phuad23/-Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation/blob/main/PieChart%20of%20accenture.PNG)
 
+The Presentation can also be viewed [Here](
    
